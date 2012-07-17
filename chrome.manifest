@@ -5,7 +5,8 @@ overlay chrome://firebug/content/firebugOverlay.xul         chrome://eventbug/co
 # Also useful in chromebug
 overlay chrome://fb4cb/content/firebugOverlay.xul         chrome://eventbug/content/eventbug.xul
 
+locale  eventbug    de-DE       chrome/locale/de-DE/
 locale  eventbug    en-US       chrome/locale/en-US/
 locale  eventbug    nl          chrome/locale/nl/
 locale  eventbug    zh-CN       chrome/locale/zh-CN/
-locale  eventbug    bg       	chrome/locale/bg/
+locale  eventbug    bg          chrome/locale/bg/
